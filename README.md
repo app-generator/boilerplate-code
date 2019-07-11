@@ -29,4 +29,4 @@ The list with [Flask boilerplates](https://github.com/app-generator?tab=reposito
  
 ---
  
-[Boilerplate code provided by AppSeed](https://appseed.us/boilerplate-code)
+Index with **Boilerplates** provided by [AppSeed](https://appseed.us/boilerplate-code)
