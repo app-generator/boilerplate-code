@@ -31,4 +31,4 @@ The list with [Flask boilerplates](https://github.com/app-generator?tab=reposito
 
 ---
  
-Provided by [AppSeed](https://appseed.us/boilerplate-code)
+[Boilerplate Code](https://appseed.us/boilerplate-code) provided by **AppSeed**
