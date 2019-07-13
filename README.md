@@ -22,7 +22,7 @@ The list with [Flask boilerplates](https://github.com/app-generator?tab=reposito
 
 <br />
 
-## related Resources
+## Boilerplate Resources
 
  - [Boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code) - wikipedia page
  - [Boilrplate.com](http://www.boilrplate.com/) - a curated list with starters and boilerplates (open-source project)
