@@ -8,6 +8,11 @@ Open-Source Nodejs, Laravel and Flask **[boilerplate code](https://en.wikipedia.
 
 This open-source [boilerplate](https://en.wikipedia.org/wiki/Boilerplate_code) is a simple [Nodejs](https://nodejs.org/en/) / Express starter enhanced with [JWT authentication](https://jwt.io/introduction/) (passport, passport-jwt), ES6. Other Features: [SQLite](https://www.sqlite.org/index.html) database, [Sequelize](http://docs.sequelizejs.com/) ORM, secure REST api. 
 
+### Full-Stack apps built with this [Nodejs Starter](https://appseed.us/boilerplate-code/nodejs-starter)
+
+ - [Express Vuejs - Argon Design](https://appseed.us/apps/vuejs/express/argon-design-system-creative-tim)
+ - [Express React - Material Kit](https://appseed.us/apps/react/express/material-kit-creative-tim) 
+
 <br />
 
 ## [Laravel Boilerplate](https://github.com/app-generator/laravel-boilerplate)
